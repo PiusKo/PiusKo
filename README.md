@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @PiusKo
- 
-- 👀 I’m interested in GNU/Linux and electronics.
- 
-- 🌱 I’m currently learning Rust.
+Something about myself:
 
-- 📫 How to reach me pius.dev(at)pm.me
+    Average GNU/Linux enjoyer
+    Electronics engeneer
+
+Currently working on:
+
+- learning Rust
+    
+mailbox In case you want to contact me: pius.dev(at)pm.me
