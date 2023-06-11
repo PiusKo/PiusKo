@@ -1,7 +1,7 @@
 Something about myself:
 
-    Average GNU/Linux enjoyer
-    Electronics engeneer
+- Average GNU/Linux enjoyer
+- Electronics engeneer
 
 Currently working on:
 
