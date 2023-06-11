@@ -4,4 +4,4 @@
  
 - 🌱 I’m currently learning Rust.
 
-- 📫 How to reach me pius.dev@pm.me
+- 📫 How to reach me pius.dev(at)pm.me
