@@ -7,4 +7,4 @@ Currently working on:
 
 - learning Rust
     
-mailbox In case you want to contact me: pius.dev(at)pm.me
+mailbox In case you want to contact me: pius (dot) dev (at) pm (dot) me
